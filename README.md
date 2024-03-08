@@ -1,1 +1,1 @@
-A front end project developed using html, css, javascript, locomotive css & gsap.
+A portfolio(front-end project)developed using HTML, CSS, javascript, locomotive CSS & gsap.
